@@ -1,4 +1,4 @@
-public class factoryCLass
+public class FactoryCLass
 {
     public AbstractOperation GetOperation(string operate)
     {
